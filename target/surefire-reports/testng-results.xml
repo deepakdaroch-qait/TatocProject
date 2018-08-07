@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="QAIT.TatocProject.Tatoc_Basic_Course" duration-ms="31124" started-at="2018-08-01T12:27:19Z" finished-at="2018-08-01T12:27:50Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="31124" started-at="2018-08-01T12:27:19Z" finished-at="2018-08-01T12:27:50Z">
+      <class name="QAIT.TatocProject.Tatoc_Basic_Course">
+        <test-method status="PASS" signature="initiateBrowser()[pri:0, instance:QAIT.TatocProject.Tatoc_Basic_Course@35f983a6]" name="initiateBrowser" is-config="true" duration-ms="10974" started-at="2018-08-01T17:57:19Z" finished-at="2018-08-01T17:57:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateBrowser -->
+        <test-method status="PASS" signature="verify_User_Is_On_Tatoc_Homepage()[pri:0, instance:QAIT.TatocProject.Tatoc_Basic_Course@35f983a6]" name="verify_User_Is_On_Tatoc_Homepage" duration-ms="5647" started-at="2018-08-01T17:57:30Z" finished-at="2018-08-01T17:57:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_User_Is_On_Tatoc_Homepage -->
+        <test-method status="PASS" signature="click_On_Basic_Course_Link()[pri:0, instance:QAIT.TatocProject.Tatoc_Basic_Course@35f983a6]" name="click_On_Basic_Course_Link" duration-ms="2307" started-at="2018-08-01T17:57:36Z" finished-at="2018-08-01T17:57:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_On_Basic_Course_Link -->
+        <test-method status="PASS" signature="click_On_Green_Box_On_Grid_Gate()[pri:0, instance:QAIT.TatocProject.Tatoc_Basic_Course@35f983a6]" name="click_On_Green_Box_On_Grid_Gate" duration-ms="3281" started-at="2018-08-01T17:57:38Z" finished-at="2018-08-01T17:57:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_On_Green_Box_On_Grid_Gate -->
+        <test-method status="PASS" signature="verify_Color_Of_Boxes_Match()[pri:0, instance:QAIT.TatocProject.Tatoc_Basic_Course@35f983a6]" name="verify_Color_Of_Boxes_Match" duration-ms="2957" started-at="2018-08-01T17:57:41Z" finished-at="2018-08-01T17:57:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Color_Of_Boxes_Match -->
+        <test-method status="PASS" signature="Drag_And_Drop_Button()[pri:0, instance:QAIT.TatocProject.Tatoc_Basic_Course@35f983a6]" name="Drag_And_Drop_Button" duration-ms="1159" started-at="2018-08-01T17:57:44Z" finished-at="2018-08-01T17:57:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Drag_And_Drop_Button -->
+        <test-method status="PASS" signature="Launch_Popup_And_Submit_Form()[pri:0, instance:QAIT.TatocProject.Tatoc_Basic_Course@35f983a6]" name="Launch_Popup_And_Submit_Form" duration-ms="3251" started-at="2018-08-01T17:57:45Z" finished-at="2018-08-01T17:57:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch_Popup_And_Submit_Form -->
+        <test-method status="PASS" signature="Generate_Token_And_Cookie()[pri:0, instance:QAIT.TatocProject.Tatoc_Basic_Course@35f983a6]" name="Generate_Token_And_Cookie" duration-ms="370" started-at="2018-08-01T17:57:49Z" finished-at="2018-08-01T17:57:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Generate_Token_And_Cookie -->
+        <test-method status="PASS" signature="Verify_End_Page_And_Complete_Basic_Course()[pri:0, instance:QAIT.TatocProject.Tatoc_Basic_Course@35f983a6]" name="Verify_End_Page_And_Complete_Basic_Course" duration-ms="75" started-at="2018-08-01T17:57:49Z" finished-at="2018-08-01T17:57:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_End_Page_And_Complete_Basic_Course -->
+        <test-method status="PASS" signature="close_Browser()[pri:0, instance:QAIT.TatocProject.Tatoc_Basic_Course@35f983a6]" name="close_Browser" is-config="true" duration-ms="1084" started-at="2018-08-01T17:57:49Z" finished-at="2018-08-01T17:57:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_Browser -->
+      </class> <!-- QAIT.TatocProject.Tatoc_Basic_Course -->
+    </test> <!-- Command line test -->
+  </suite> <!-- QAIT.TatocProject.Tatoc_Basic_Course -->
+</testng-results>
