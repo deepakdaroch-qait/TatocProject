@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="8" failures="0" name="QAIT.TatocProject.Tatoc_Basic_Course" time="19.049" errors="0" skipped="0">
+<testsuite tests="8" failures="0" name="QAIT.TatocProject.Tatoc_Basic_Course" time="13.137" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_171\jre\bin"/>
     <property name="java.vm.version" value="25.171-b11"/>
+    <property name="browser" value="chrome"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="maven.multiModuleProjectDirectory" value="C:\Users\deepakdaroch\Desktop\Backup_Automation\Tatoc1\TatocProject"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
@@ -47,7 +48,7 @@
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_171\jre"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test -Dtest=Tatoc_Basic_Course"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test -Dtest=Tatoc_Basic_Course -Dbrowser=chrome"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="en"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -66,12 +67,12 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="QAIT.TatocProject.Tatoc_Basic_Course" name="verify_User_Is_On_Tatoc_Homepage" time="5.649"/>
-  <testcase classname="QAIT.TatocProject.Tatoc_Basic_Course" name="click_On_Basic_Course_Link" time="2.306"/>
-  <testcase classname="QAIT.TatocProject.Tatoc_Basic_Course" name="click_On_Green_Box_On_Grid_Gate" time="3.282"/>
-  <testcase classname="QAIT.TatocProject.Tatoc_Basic_Course" name="verify_Color_Of_Boxes_Match" time="2.956"/>
-  <testcase classname="QAIT.TatocProject.Tatoc_Basic_Course" name="Drag_And_Drop_Button" time="1.16"/>
-  <testcase classname="QAIT.TatocProject.Tatoc_Basic_Course" name="Launch_Popup_And_Submit_Form" time="3.251"/>
-  <testcase classname="QAIT.TatocProject.Tatoc_Basic_Course" name="Generate_Token_And_Cookie" time="0.37"/>
+  <testcase classname="QAIT.TatocProject.Tatoc_Basic_Course" name="verify_User_Is_On_Tatoc_Homepage" time="2.253"/>
+  <testcase classname="QAIT.TatocProject.Tatoc_Basic_Course" name="click_On_Basic_Course_Link" time="2.402"/>
+  <testcase classname="QAIT.TatocProject.Tatoc_Basic_Course" name="click_On_Green_Box_On_Grid_Gate" time="2.418"/>
+  <testcase classname="QAIT.TatocProject.Tatoc_Basic_Course" name="verify_Color_Of_Boxes_Match" time="3.549"/>
+  <testcase classname="QAIT.TatocProject.Tatoc_Basic_Course" name="Drag_And_Drop_Button" time="0.347"/>
+  <testcase classname="QAIT.TatocProject.Tatoc_Basic_Course" name="Launch_Popup_And_Submit_Form" time="1.825"/>
+  <testcase classname="QAIT.TatocProject.Tatoc_Basic_Course" name="Generate_Token_And_Cookie" time="0.268"/>
   <testcase classname="QAIT.TatocProject.Tatoc_Basic_Course" name="Verify_End_Page_And_Complete_Basic_Course" time="0.075"/>
 </testsuite>
